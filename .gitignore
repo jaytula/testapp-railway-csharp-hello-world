@@ -1,0 +1,24 @@
+# Binaries
+*.dll
+*.exe
+*.pdb
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+
+# ReSharper specific
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# StyleCop specific
+StyleCop*.Cache
+
+# Test results
+TestResults/
+
